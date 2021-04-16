@@ -106,5 +106,4 @@ elif mnu == '3':
         gerarcns() 
 
 if mnu == "Q" or 'q':
-       print("obg")  
-       menu() 
+       print("obg") 
