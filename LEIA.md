@@ -13,4 +13,4 @@ O que é o CNPJ? O Cadastro Nacional de Pessoa Jurídica (CNPJ) é um registro e
 
 Cartão Nacional de Saúde (CNS) é o documento de identificação do usuário do SUS. Este registro contém as informações dos indivíduos, como: dados pessoais (nome, nome da mãe, data de nascimento, etc), contatos (telefones, endereço, e-mails) e documentos (CPF, RG, Certidões, etc). Atualmente, o número do CNS está inserido nos sistemas informatizados de saúde que demandam a identificação dos indivíduos, sejam usuários, operadores ou profissionais de saúde. Dessa forma, o CNS possibilita a criação do histórico de atendimento de cada cidadão no Sistema Único de Saúde (SUS), por meio do acesso às Bases de Dados dos sistemas envolvidos neste histórico, por exemplo: sistema de atenção básica, sistema hospitalar, sistema de dispensação de medicamentos, etc.
 
- <img src =
+ <img src =Captura de tela de 2021-04-16 17-11-40.png>
